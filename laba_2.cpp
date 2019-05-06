@@ -4,6 +4,12 @@
 
 #include <iostream>
 
+template <typename TTT>
+class Demo{
+    TTT data;
+};
+
 int main() {
-    std::cout<<"hi\n";
+    Demo<double> d;
+    return 0;
 }
