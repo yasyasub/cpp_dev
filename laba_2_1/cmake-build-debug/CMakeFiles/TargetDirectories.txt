@@ -1,0 +1,3 @@
+/home/yasyasub/Desktop/cpp_dev/laba_2_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yasyasub/Desktop/cpp_dev/laba_2_1/cmake-build-debug/CMakeFiles/laba_2_1.dir
+/home/yasyasub/Desktop/cpp_dev/laba_2_1/cmake-build-debug/CMakeFiles/edit_cache.dir
