@@ -19,7 +19,7 @@ int main() {
     d.data = 2.5;
     d2.data = 2;
     Demo<Point> d3;
-    d3.data = p1;
+    d3.data = p2;
     Demo<Demo<int>> d4;
     d4.data.data = 56;
     std::pair<int, double> ppp;
